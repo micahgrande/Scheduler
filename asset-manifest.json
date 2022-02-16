@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/micahgrande/YGODeck/static/css/main.20bdfe60.css",
-    "main.js": "/micahgrande/YGODeck/static/js/main.2d86ae9c.js",
-    "index.html": "/micahgrande/YGODeck/index.html",
-    "main.20bdfe60.css.map": "/micahgrande/YGODeck/static/css/main.20bdfe60.css.map",
-    "main.2d86ae9c.js.map": "/micahgrande/YGODeck/static/js/main.2d86ae9c.js.map"
+    "main.css": "/YGODeck/static/css/main.20bdfe60.css",
+    "main.js": "/YGODeck/static/js/main.2d86ae9c.js",
+    "index.html": "/YGODeck/index.html",
+    "main.20bdfe60.css.map": "/YGODeck/static/css/main.20bdfe60.css.map",
+    "main.2d86ae9c.js.map": "/YGODeck/static/js/main.2d86ae9c.js.map"
   },
   "entrypoints": [
     "static/css/main.20bdfe60.css",
