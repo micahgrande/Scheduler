@@ -54,7 +54,7 @@ let speedFlag = 0
 let recruit = 0
 let extremeRecruit = 0
 
-function R6SRando() {
+function YGODeck() {
   //variable shown as the name of who you're playing
   let [Op, setOp] = useState("? ? ?") 
 
@@ -489,4 +489,4 @@ function R6SRando() {
   );
 }
 
-export default R6SRando;
+export default YGODeck;

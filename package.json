@@ -1,8 +1,8 @@
 {
-  "name": "r6srando",
+  "name": "YGODeck",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://micahgrande.github.io/R6SRando",
+  "homepage": "https://github.com/micahgrande/YGODeck",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.8.6",
