@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+#ExtraAttack  {
+  font-size: 20px;
+  background-color: #e2a2fe;
+  padding: 15px;
+  color: #e7e7e7;
+  border-radius: 12px;
+  margin: 10px;
+}
+#ExtraDefend  {
+  font-size: 20px;
+  background-color: #BBAFFD;
+  padding: 15px;
+  color: #e7e7e7;
+  border-radius:12px;
+  margin: 10px;
+}
+ .ToggleDefault button {
+  font-size: 20px;
+  background-color: #727A87;
+  padding: 15px;
+  color: #9DA9B1;
+  border-radius: 20px;
+  margin: 10px;
+}
+.WrapperCenter {
+  text-align: center
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
