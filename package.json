@@ -2,7 +2,7 @@
   "name": "YGODeck",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/micahgrande/YGODeck",
+  "homepage": "https://micahgrande.github.io/YGODeck",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.8.6",
