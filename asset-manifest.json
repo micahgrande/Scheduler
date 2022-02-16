@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/R6SRando/static/css/main.20bdfe60.css",
+    "main.js": "/R6SRando/static/js/main.2d86ae9c.js",
+    "index.html": "/R6SRando/index.html",
+    "main.20bdfe60.css.map": "/R6SRando/static/css/main.20bdfe60.css.map",
+    "main.2d86ae9c.js.map": "/R6SRando/static/js/main.2d86ae9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20bdfe60.css",
+    "static/js/main.2d86ae9c.js"
+  ]
+}
