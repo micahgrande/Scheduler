@@ -54,7 +54,7 @@ let speedFlag = 0
 let recruit = 0
 let extremeRecruit = 0
 
-function YGODeck() {
+function Scheduler() {
   //variable shown as the name of who you're playing
   let [Op, setOp] = useState("? ? ?") 
 
@@ -489,4 +489,4 @@ function YGODeck() {
   );
 }
 
-export default YGODeck;
+export default Scheduler;

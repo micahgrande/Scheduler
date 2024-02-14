@@ -1,8 +1,8 @@
 {
-  "name": "YGODeck",
+  "name": "Scheduler",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://micahgrande.github.io/YGODeck",
+  "homepage": "https://micahgrande.github.io/Scheduler",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.8.6",
